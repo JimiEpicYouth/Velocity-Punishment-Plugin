@@ -1,8 +1,0 @@
-{
-  "id": "punishments-velocity",
-  "name": "PunishmentsVelocity",
-  "version": "1.0.0",
-  "description": "Volledig punishment systeem voor Velocity proxy",
-  "authors": ["JouwNaam"],
-  "dependencies": []
-}
